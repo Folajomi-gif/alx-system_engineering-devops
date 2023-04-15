@@ -1,1 +1,1 @@
-myshell
+Shell permissions
